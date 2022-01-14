@@ -1,4 +1,4 @@
-const chai = require("chai");
+  const chai = require("chai");
 const fs = require("fs");
 const path = require("path");
 const globalJsdom = require("global-jsdom");
